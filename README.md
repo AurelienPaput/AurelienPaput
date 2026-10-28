@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis étudiant en informatique en 1ère année à l'IUT de Clermont-Ferrand.<br>Je suis actuellement en train de travailler sur une application mobile en Kotlin qui a pour objectif d'être une application de gestion financière.<br>Je suis également à la recherche d'une alternance pour ma 2ème et 3ème année.<br>
+Je suis étudiant en informatique en 2ème année à l'IUT de Clermont-Ferrand.<br>Je suis actuellement en train de travailler sur une application mobile en Kotlin qui a pour objectif d'être une application de gestion financière.<br>Je suis également à la recherche d’un stage et d’une alternance mour ma 3ème année.<br>
 
 
 ## 🌐 Socials:
